@@ -9,7 +9,7 @@ int main(int argcc, char *argv[])
 	system ("color B");
 	pecahan p1, p2;
 	cout<<"******************************************"<<endl;
-	cout<<" MENGUBAH BILANGAN PECAHAN KE BILANGAN BULAT "<<endl;
+	cout<<" MENGUBAH BILANGAN PECAHAN KE BILANGAN DESIMAL "<<endl;
 	cout<<"******************************************"<<endl;
 	cout<<" MASUKAN PEMBILANG : ";
 	cin>>p1.pb;
